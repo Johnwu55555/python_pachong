@@ -1,2 +1,2 @@
-# stunning-guacamole
+# python_pachong
 study python
